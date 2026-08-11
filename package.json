@@ -1,0 +1,11 @@
+{
+  "name": "skillgraph",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SkillGraph workspace root",
+  "scripts": {
+    "start": "echo \"No frontend app is configured yet.\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
