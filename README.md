@@ -195,6 +195,15 @@ The React UI consumes the FastAPI server on `http://127.0.0.1:8000` by default. 
 VITE_API_URL=http://<your-api-host>:8000
 ```
 
+## Hosted Demo and Recording
+
+This assignment requires a publicly reachable live demo and a short screen recording. The current repository is GitHub-ready locally and includes an API/graph implementation that can be deployed to a free host, but the actual public endpoint must be published after a cloud service is selected.
+
+Recommended handoff fields:
+
+- Hosted application demo: <add-your-public-demo-url>
+- Short screen recording: <add-your-recording-url-or-gdrive-link>
+
 ## Screenshots
 
 The assignment asks for screenshots of the UI. This repository uses screenshots in the [screenshots](screenshots) folder to record the main flows:
